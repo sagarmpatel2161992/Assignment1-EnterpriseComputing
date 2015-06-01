@@ -1,0 +1,102 @@
+﻿
+body { 
+    width:100%;
+    height: 100%;
+    font: 12px arial;
+}
+
+header{    
+    color: bisque;
+    background: darkolivegreen;
+    text-align: center; 
+}
+
+#Content2{
+    position:relative;
+}
+
+footer {  
+bottom: 0;
+width: 100%;      
+        color: bisque;
+    background: darkolivegreen;
+    text-align: center;
+    font-size: large;    
+}
+
+div #game-1{    
+    border-radius: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid #8AC007;
+    margin-left:20px;
+    margin-right: 20px;
+    display: inline-block;
+    min-height: 300px;
+    background-color: ButtonFace;
+}
+div #game-2{
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left:20px;
+    margin-right: 20px;
+    border: thick 2px red;
+    display: inline-block;
+      min-height: 300px;
+    background-color: ButtonFace;
+}
+div #game-3{
+    border-radius: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid #8AC007;
+    margin-left:25px;
+    margin-right: 20px;
+    border: thick 2px red;
+    display: inline-block;
+      min-height: 300px;
+    background-color: ButtonFace;
+}
+div #game-4{
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    margin-left:20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: thick 2px red;
+    display: inline-block;
+      min-height: 300px;
+    background-color: ButtonFace;
+}
+
+#btnCalculate{
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#txtSpectators{
+    padding-bottom: 10px;
+}
+
+#result{
+    background-color: aliceblue;
+        height: 100%;
+    font:bold 14px arial;
+    color: red;
+}
+
+
+h4{
+    text-align:center;
+    text-transform: uppercase;
+    font-size: x-large;
+    background-color: ButtonFace;
+}
