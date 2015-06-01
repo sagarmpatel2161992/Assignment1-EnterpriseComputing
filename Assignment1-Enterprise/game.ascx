@@ -46,6 +46,7 @@
             <td>&nbsp;</td>           
             <td>
                 <div>
+                     
                 <asp:RequiredFieldValidator ID="rfvResult" runat="server"
                     ErrorMessage="Result must be Selected" CssClass="alert alert-danger" 
                     ControlToValidate="rblResult" Display="Dynamic">
